@@ -9,8 +9,8 @@ Pod::Spec.new do |s|
   s.authors      = {'Marcin Krzyżanowski' => 'marcin@krzyzanowskim.com'}
   s.social_media_url = "https://twitter.com/krzyzanowskim"
   s.cocoapods_version = '>= 1.10.0'
-  s.swift_version = "5.6"
-  s.ios.deployment_target = "11.0"
+  s.swift_version = "5.7"
+  s.ios.deployment_target = "10.0"
   s.osx.deployment_target = "10.12"
   s.watchos.deployment_target = "4.0"
   s.tvos.deployment_target = "11.0"
